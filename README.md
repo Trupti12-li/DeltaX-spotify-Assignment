@@ -9,3 +9,10 @@ Here's what the web can do:
 - Manage favourite songs.
 - Searching for songs by titles or singer names.
 - Basic C.R.U.D operations for Administrator.
+
+
+### Built With
+
+- [PHP](https://www.php.net/)
+- [Javascript](https://www.javascript.com/)
+- [MySQL](https://www.mysql.com/)
